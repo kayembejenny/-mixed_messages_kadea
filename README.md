@@ -1,4 +1,5 @@
 # mixed_messages 
+develops
 ## A propos du projet 
 ce programme a ete concu avec la technologie JavaScript et il permet de prendre les mots aleatoirement et de former une phrase complete de ce fait on ulise :
 - le random messages
@@ -23,3 +24,4 @@ le message afficher dans la console est aleatoire aussi longtemps le programme e
 ## Documentation
 - More about [Math.ramdon()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random) on Mdn javascript Global Object
 - More about dataSource [Array storage](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) and [Object storage](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+
